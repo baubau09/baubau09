@@ -1,8 +1,9 @@
 ### Hi there, I'm Katie 👋
 
-- ✨ I’m a senior majoring in Computer Science (U of London) and Information Technology (RMIT University) ✨
+- ✨ CS @ U of London ✨
+- ✨ IT @ RMIT University ✨
 - 🤔 Graduation: September 2023
-- 📫 How to reach me: hello@katietran.com
+- 📫 Contact: hello@katietran.com
 - 🌱 I’m currently learning Machine Learning & Data Engineering
 - 🔭 Previously: Front-end Engineering Intern @ Homebase Management Vietnam
 - 🔭 Looking for Fresh Grad and Internship opportunities Q1/2023
