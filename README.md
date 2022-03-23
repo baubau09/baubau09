@@ -8,7 +8,6 @@
 - 🌱 Learning: ML, Data Engineering
 - 🔭 Previously: Front-end Engineering Intern @ Homebase Management Vietnam
 - 🔭 Looking for Fresh Grad and Internship opportunities Q1/2023
-- 😄 Pronouns: she/her
 - ⚡ Fun fact: Ask me about Mechanical Keyboards
 
 
