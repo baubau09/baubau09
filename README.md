@@ -4,7 +4,8 @@
 - ✨ IT @ RMIT University ✨
 - 🤔 Grad: September 2023
 - 📫 hello@katietran.com
-- 🌱 I’m currently learning Machine Learning & Data Engineering
+- 🌱 experienced: web dev, front-end, back-end
+- 🌱 learning: ML & Data Engineering
 - 🔭 Previously: Front-end Engineering Intern @ Homebase Management Vietnam
 - 🔭 Looking for Fresh Grad and Internship opportunities Q1/2023
 - 😄 Pronouns: she/her
