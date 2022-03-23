@@ -4,8 +4,8 @@
 - 🤔 Graduation: September 2023
 - 📫 How to reach me: hello@katietran.com
 - 🌱 I’m currently learning Machine Learning & Data Engineering
-- 👯 I’m looking to collaborate on Data-related or Machine Learning projects
 - 🔭 Previously: Front-end Engineering Intern @ Homebase Management Vietnam
+- 🔭 Looking for Fresh Grad and Internship opportunities Q1/2023
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Ask me about Mechanical Keyboards
 
@@ -18,7 +18,7 @@
 <br>
   
   
-  
+  ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
