@@ -13,7 +13,7 @@
 
 
 <div align="center">
-  <img width="44%" src="https://github-readme-stats.vercel.app/api?username=baubau09&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&show_icons=true&count_private=true" /> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baubau09&layout=compact" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=baubau09&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&show_icons=true&count_private=true" /> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baubau09&layout=compact" />
 <br>
 <br>
   
