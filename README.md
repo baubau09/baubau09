@@ -10,10 +10,10 @@
 - ⚡ Fun fact: Ask me about Mechanical Keyboards
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=baubau09&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&show_icons=true" />
+
 <div align="center">
 
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=baubau09&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&show_icons=true" />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baubau09)
 
 <br>
