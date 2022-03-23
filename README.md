@@ -2,8 +2,8 @@
 
 - ✨ CS @ U of London ✨
 - ✨ IT @ RMIT University ✨
-- 🤔 Graduation: September 2023
-- 📫 Contact: hello@katietran.com
+- 🤔 Grad: September 2023
+- 📫 hello@katietran.com
 - 🌱 I’m currently learning Machine Learning & Data Engineering
 - 🔭 Previously: Front-end Engineering Intern @ Homebase Management Vietnam
 - 🔭 Looking for Fresh Grad and Internship opportunities Q1/2023
