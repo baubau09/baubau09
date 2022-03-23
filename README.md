@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Katie 👋
 
 - ✨ I’m a senior majoring in Computer Science (U of London) and Information Technology (RMIT University) ✨
 - 🤔 Graduation: September 2023
