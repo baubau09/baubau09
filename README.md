@@ -2,7 +2,7 @@
 
 - ✨ CS @ U of London ✨
 - ✨ IT @ RMIT University ✨
-- ✨ Prev: CS @ York University (Toronto, Canada) ✨
+- ✨ Previously: CS @ York University (Toronto, Canada) ✨
 - 🤔 Grad: September 2023
 - 📫 hello@katietran.com
 - 🌱 Experienced: front-end (ReactJS, NextJS), back-end (Python, NodeJS)
