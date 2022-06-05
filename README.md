@@ -2,9 +2,10 @@
 
 - ✨ CS @ U of London ✨
 - ✨ IT @ RMIT University ✨
+- ✨ Prev: CS @ York University (Toronto, Canada) ✨
 - 🤔 Grad: September 2023
 - 📫 hello@katietran.com
-- 🌱 Experienced: web dev, front-end, back-end
+- 🌱 Experienced: front-end (ReactJS, NextJS), back-end (Python, NodeJS)
 - 🌱 Learning: ML, Data Engineering
 - 🔭 Previously: Front-end Engineering Intern @ Homebase Management Vietnam
 - 🔭 Looking for Fresh Grad and Internship opportunities Q1/2023
